@@ -1,9 +1,6 @@
 # Simple UI to Remove, Block and Unblock Characters on Helix
 ## _Better and safe way to take this actions_
 
-Colorful HUD created by Jars and fre to use or edit. If you improved you can pull request on
-this repository.
-
 ## Commands
 
 - /CharRemoveBySteamID "SteamID"
