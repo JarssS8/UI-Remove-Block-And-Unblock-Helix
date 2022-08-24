@@ -6,9 +6,9 @@ this repository.
 
 ## Commands
 
-/CharRemoveBySteamID "SteamID"
-/CharBlockBySteamID "SteamID"
-/CharUnBlockBySteamID "SteamID"
+- /CharRemoveBySteamID "SteamID"
+- /CharBlockBySteamID "SteamID"
+- /CharUnBlockBySteamID "SteamID"
 
 ## UI Example
 ![Show characters](https://i.imgur.com/vA7M178.png)
